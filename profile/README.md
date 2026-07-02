@@ -1,12 +1,21 @@
-## Hi there 👋
+# CoreWeb
 
-<!--
+**Студия фронтенд-разработки.**
 
-**Here are some ideas to get you started:**
+Проектируем и разрабатываем быстрые многоязычные сайты и интерфейсы для запусков, продуктов и брендов.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Направления
+
+- Промо- и корпоративные сайты
+- Многоязычные веб-проекты
+- UI-инженерия, анимации и интеграции
+- Производительность, SEO и доступность
+
+## Ресурсы и контакты
+
+- [GitHub](https://github.com/core-web-dev)
+- [Telegram](https://t.me/CoreWeb_Studio)
+- [Instagram](https://www.instagram.com/_coreweb.studio_?igsh=MXBoaHAwc3NodmM3cA%3D%3D&utm_source=qr)
+- [dev@coreweb.studio](mailto:dev@coreweb.studio)
+
+Для обсуждения проекта — [свяжитесь с нами по почте](mailto:dev@coreweb.studio).
