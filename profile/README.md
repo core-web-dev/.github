@@ -14,8 +14,6 @@
 ## Ресурсы и контакты
 
 - [GitHub](https://github.com/core-web-dev)
-- [Telegram](https://t.me/CoreWeb_Studio)
-- [Instagram](https://www.instagram.com/_coreweb.studio_?igsh=MXBoaHAwc3NodmM3cA%3D%3D&utm_source=qr)
 - [dev@coreweb.studio](mailto:dev@coreweb.studio)
 
 Для обсуждения проекта — [свяжитесь с нами по почте](mailto:dev@coreweb.studio).
